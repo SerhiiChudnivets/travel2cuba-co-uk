@@ -2,7 +2,6 @@
   "name": "non gamstop casino",
   "site_name": "Casinos Not on GamStop (2026) - Best Non GamStop Casinos in the UK",
   "html_head": "<meta name=\"google-site-verification\" content=\"es1UPXQm_fBoP2Og5h89jAvFcL4QTKLjR9Lz4qHoZ7A\" />\n<link rel=\"canonical\" href=\"https://travel2cuba.co.uk/cuba-tour-operators/\">\n<link rel=\"alternate\" href=\"https://travel2cuba.co.uk/cuba-tour-operators/\" hreflang=\"en-GB\" />\n<link rel=\"alternate\" href=\"https://travel2cuba.co.uk/cuba-tour-operators/\" hreflang=\"en\" />\n<link rel=\"alternate\" href=\"https://travel2cuba.co.uk/cuba-tour-operators/\" hreflang=\"x-default\" />",
-  "url": "travel2cuba.co.uk",
   "template": "review",
   "language_code": "en",
   "allow_indexing": true,
@@ -320,8 +319,9 @@
       "question": "What do VIP bonuses offer?"
     }
   ],
-  "_generated_at": "2026-11-23T13:19:49.789Z",
+  "url": "www.travel2cuba.co.uk",
+  "_generated_at": "2026-11-27T13:48:51.422Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-23T13:19:50.537Z",
-  "_deploy_trigger": "zy5e5m"
+  "_last_deploy": "2026-11-27T13:48:52.123Z",
+  "_deploy_trigger": "qz859o"
 }
